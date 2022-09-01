@@ -34,9 +34,14 @@ header .brand .logo {
 .nav-link {
     padding: 10px 30px;
     color: #8d7575;
+    
 }
 
 .nav-link:active {
     color: #eaeaea;
     background-color: #0da472;
+}
+
+.nav-link:hover {
+    border: 1px solid rgb(125, 102, 102);
 }

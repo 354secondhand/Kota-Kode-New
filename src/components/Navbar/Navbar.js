@@ -14,7 +14,6 @@ const Nav = () => {
             <nav>
                 <ul className="nav-menu">
                     {MenuItem.map((item, index) => {
-                        console.log ()
                         return (
                             <li key={index}>
                                 <a className={item.cName} href={item.url}>{item.title}</a>
