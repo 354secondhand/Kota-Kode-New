@@ -76,3 +76,16 @@
     background-color: #14a458;
     color: #fff;
 }
+
+.btn--signup-homepage {
+    background-color: #f9813a;
+    font-size: 16px;
+    padding: 14.75px 30px;
+    color: #fff;
+    border: none;
+}
+
+.btn--signup-homepage:hover {
+    background-color: #f4c2a5;
+    
+}

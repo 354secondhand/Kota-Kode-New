@@ -4,7 +4,8 @@ import './Button.css'
 const STYLE = [
     'btn--primary',
     'btn--outline',
-    'btn--signup'
+    'btn--signup',
+    'btn--signup-homepage'
 ]
 
 const SIZE = [

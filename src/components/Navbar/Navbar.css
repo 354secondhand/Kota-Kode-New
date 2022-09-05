@@ -34,16 +34,20 @@ header .brand .logo {
 .nav-link {
     padding: 10px 15px;
     color: #8d7575;
-    
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
 }
 
-.nav-link:active {
+.nav-link:focus {
     color: #ffffff;
     background-color: #0da472;
 }
 
 .nav-link:hover {
-    border: 1px solid #0da472;
+    border: 1px solid #81d7a9;
     border-radius: 4px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
